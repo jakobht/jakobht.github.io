@@ -7,8 +7,11 @@ export default function Home(): JSX.Element {
       {/* Hero Section */}
       <header style={{ backgroundColor: '#0f172a', padding: '4rem 0', color: '#f8fafc' }}>
         <div className="container text--center">
-          <h1 style={{ fontSize: '3rem', margin: '0' }}>Jakob Taankvist</h1>
-          <p style={{ fontSize: '1.25rem', color: '#94a3b8', marginTop: '0.5rem' }}>
+          <h1 style={{ fontSize: '3rem', margin: '0' }}>Jakob Haahr Taankvist</h1>
+          <p style={{ fontSize: '1rem', color: '#94a3b8', marginTop: '0.5rem' }}>
+            PhD, Senior Software Engineer
+          </p>
+          <p style={{ fontSize: '1.25rem', color: '#94a3b8', marginTop: '0.0rem' }}>
             Distributed Systems, Verification & Systems Engineering
           </p>
           <div style={{ marginTop: '2rem' }}>
