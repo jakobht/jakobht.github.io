@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktaankvist_dk=self.webpackChunktaankvist_dk||[]).push([["833"],{5513(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/blog/first-blog-post","unlisted":false,"date":"2019-05-28T00:00:00.000Z"}]}')}}]);

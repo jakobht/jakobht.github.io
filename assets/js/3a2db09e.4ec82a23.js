@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktaankvist_dk=self.webpackChunktaankvist_dk||[]).push([["186"],{8070(a){a.exports=JSON.parse('{"tags":[{"label":"hola","permalink":"/blog/tags/hola","count":1}]}')}}]);
