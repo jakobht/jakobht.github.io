@@ -32,7 +32,7 @@ export default function Home(): JSX.Element {
                 <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem', color: '#0f172a' }}>About Me</h2>
                 <p style={{ lineHeight: '1.6', color: '#334155' }}>
                   Senior Software Engineer at Uber, working on the <strong><a href="https://github.com/cadence-workflow/cadence">Cadence</a></strong> workflow engine.
-                  My work focuses on distributed systems at scale. PhD in Computer Science with a
+                  My work focuses on distributed systems at scale, and performance intensive systems. PhD in Computer Science with a
                   background in formal verification and strategy synthesis for cyber-physical systems.
                 </p>
               </div>
