@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
               <div style={{ backgroundColor: 'white', padding: '2rem', marginBottom: '2rem' }}>
                 <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem', color: '#0f172a' }}>About Me</h2>
                 <p style={{ lineHeight: '1.6', color: '#334155' }}>
-                  Senior Software Engineer at Uber, working on the <strong>Cadence</strong> workflow engine.
+                  Senior Software Engineer at Uber, working on the <strong><a href="https://github.com/cadence-workflow/cadence">Cadence</a></strong> workflow engine.
                   My work focuses on distributed systems at scale. PhD in Computer Science with a
                   background in formal verification and strategy synthesis for cyber-physical systems.
                 </p>
@@ -45,7 +45,10 @@ export default function Home(): JSX.Element {
                     <ul style={{ listStyle: 'none', padding: 0, fontSize: '0.9rem', color: '#475569' }}>
                       <li style={{ marginBottom: '1rem' }}><strong><a href="https://cadenceworkflow.io/blog/authors/jakobht">Uber</a></strong><br/>Senior Software Engineer (2023–Present)</li>
                       <li style={{ marginBottom: '1rem' }}><strong><a href="https://www.intelli-go.dk">IntelliGo</a></strong><br/>Co-founder, CEO/CTO (2018–2023)</li>
-                      <li><strong><a href="https://vbn.aau.dk/da/searchAll/?search=jakob%20taankvist&searchBy=PartOfNameOrTitle">Aalborg University</a></strong><br/>PhD Researcher (2014–2020)</li>
+                      <li><strong><a href="https://vbn.aau.dk/da/searchAll/?search=jakob%20taankvist&searchBy=PartOfNameOrTitle">Aalborg University</a></strong>
+                      <br/>PhD Researcher (2014–2020)
+                      <br/><b>Thesis:</b> <a href="https://vbn.aau.dk/en/publications/safe-optimal-and-compact-strategies-for-cyber-physical-systems/">Safe, Optimal and Compact Strategies for Cyber Physical Systems</a>
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -55,8 +58,9 @@ export default function Home(): JSX.Element {
                     <h3 style={{ fontSize: '1.1rem', marginBottom: '1rem', color: '#0f172a' }}>Open Source</h3>
                     <ul style={{ listStyle: 'none', padding: 0, fontSize: '0.9rem', color: '#475569' }}>
                       <li style={{ marginBottom: '1rem' }}><strong><a href="https://github.com/cadence-workflow/cadence">Cadence Workflow</a></strong><br/>Core contributor (Go)</li>
-                      <li style={{ marginBottom: '1rem' }}><strong><a href="https://github.com/jakobht/azurex">azurex</a></strong><br/>Azure Blob Storage REST API (Elixir)</li>
-                      <li><strong><a href="https://github.com/jakobht/jhtensor">jhtensor</a> & <a href="https://github.com/jakobht/sudoku">sudoku</a></strong><br/>Performance/Safety (Rust)</li>
+                      <li style={{ marginBottom: '1rem' }}><strong><a href="https://github.com/cadence-workflow/shard-manager">Cadence Shard Manager</a></strong><br/>Lead on the Cadence Shard manager (Go)</li>
+                      <li style={{ marginBottom: '1rem' }}><strong><a href="https://github.com/jakobht/azurex">AzureX</a></strong><br/>Azure Blob Storage REST API (Elixir)</li>
+                      <li><strong><a href="https://github.com/jakobht/jhtensor">JHTensor</a> & <a href="https://github.com/jakobht/sudoku">Sudoku</a></strong><br/>Performance and Optimization (Rust)</li>
                     </ul>
                   </div>
                 </div>
