@@ -59,8 +59,8 @@ export default function Home(): JSX.Element {
                     <ul style={{ listStyle: 'none', padding: 0, fontSize: '0.9rem', color: '#475569' }}>
                       <li style={{ marginBottom: '1rem' }}><strong><a href="https://github.com/cadence-workflow/cadence">Cadence Workflow</a></strong><br/>Core contributor (Go)</li>
                       <li style={{ marginBottom: '1rem' }}><strong><a href="https://github.com/cadence-workflow/shard-manager">Cadence Shard Manager</a></strong><br/>Lead on the Cadence Shard manager (Go)</li>
-                      <li style={{ marginBottom: '1rem' }}><strong><a href="https://github.com/jakobht/azurex">AzureX</a></strong><br/>Azure Blob Storage REST API (Elixir)</li>
-                      <li><strong><a href="https://github.com/jakobht/jhtensor">JHTensor</a> & <a href="https://github.com/jakobht/sudoku">Sudoku</a></strong><br/>Performance and Optimization (Rust)</li>
+                      <li style={{ marginBottom: '1rem' }}><strong><a href="https://github.com/jakobht/jhtensor">JHTensor</a> & <a href="https://github.com/jakobht/sudoku">Sudoku</a></strong><br/>Performance and Optimization (Rust)</li>
+                      <li><strong><a href="https://github.com/jakobht/azurex">AzureX</a></strong><br/>Azure Blob Storage REST API (Elixir)</li>
                     </ul>
                   </div>
                 </div>

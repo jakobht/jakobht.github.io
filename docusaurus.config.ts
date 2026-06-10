@@ -69,9 +69,9 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'Jakob Taankvist',
+      title: 'Jakob Haahr Taankvist',
       logo: {
-        alt: 'Jakob Taankvist',
+        alt: 'Jakob Haahr Taankvist',
         src: 'img/icon.svg',
       },
       items: [
@@ -90,7 +90,7 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [], // Leave this empty to remove all the default footer columns
-      copyright: `Copyright © ${new Date().getFullYear()} Jakob Taankvist`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jakob Haahr Taankvist`,
     },
     prism: {
       theme: prismThemes.github,
